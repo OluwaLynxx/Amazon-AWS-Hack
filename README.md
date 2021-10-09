@@ -33,4 +33,4 @@ EULA
 - Linux
 
 # Contact
-- mrharoonawan@gmail.com
+- lynxxenterprisesconsultant@gmail.com
